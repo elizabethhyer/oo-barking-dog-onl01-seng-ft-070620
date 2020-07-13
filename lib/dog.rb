@@ -14,7 +14,9 @@ class Dog
     end #woof
 end 
   
-  
+fido = Dog.new 
+
+fido.bark
   
   
   
